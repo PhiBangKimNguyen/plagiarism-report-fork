@@ -36,19 +36,10 @@ Choose the version corresponding to your Angular version:
  9           | 3.x+              
  8           | 2.x+ 
 
-Install using npm
+Install using npm 
 
 ```bash
-npm i @copyleaks/plagiarism-report
-ng add @angular/material
-npm i @angular/flex-layout
-npm i @swimlane/ngx-charts
-npm i @ncstate/sat-popover
-npm i ngx-skeleton-loader
-npm i ngx-virtual-scroller
-npm i --save-dev @types/d3-scale
-npm i --save-dev @types/d3-selection
-npm i scroll-into-view-if-needed
+npm install --force
 ```
 
 ## Usage
