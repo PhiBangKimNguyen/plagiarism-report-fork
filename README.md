@@ -81,6 +81,7 @@ export class SomeComponent {
   }
 }
 ```
+To run the project locally:
 ```bash
 ng serve --open
 ```
